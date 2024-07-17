@@ -3,3 +3,6 @@ build
 
 package-lock.json
 *.wasm
+*.dylib*
+*.o
+*.a
