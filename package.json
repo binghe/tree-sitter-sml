@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-sml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Standard ML Grammar for Tree-sitter",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stonebuddha/tree-sitter-sml.git"
+    "url": "https://github.com/binghe/tree-sitter-sml.git"
   },
   "dependencies": {
     "nan": "^2.14.0"
